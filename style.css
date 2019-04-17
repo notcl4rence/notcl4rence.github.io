@@ -1,0 +1,76 @@
+body {
+	text-align: center;
+	font-family:monospace;
+	background: #16202B;	
+}
+
+p {
+	margin: 0em;	
+}
+
+table {
+	border-spacing: 0.3rem; 
+	text-align: center;
+	border-color: #16202B;
+	background-color: #668C95;
+	margin-left:auto; 
+    margin-right:auto;
+}
+
+th {
+	padding: 0.5rem;
+	border-color: #16202B;
+	background-color: black;
+	text-align: center;
+}
+
+h2 {
+	color: white; 
+	text-align: center;
+}
+
+h3 {
+	color: white;
+	text-align: center;
+	
+}
+
+h4 {
+	text-align: center;
+}
+
+
+.about {
+	color: #BBC1C8;
+	white-space: pre-line;
+	text-alirgn: center;
+}
+
+.the-story-so-far {
+	color: #BBC1C8;
+	white-space: pre-line;
+}
+
+.the-world-as-we-know-it {
+	color: #BBC1C8;
+	white-space: pre-line;
+}
+
+.meet-the-party {  
+	color: #BBC1C8;
+	text-align: center;
+}
+
+.navigation {
+	text-align:center;
+}
+
+.magic-items {
+	text-align: center;
+	color: #BBC1C8;
+}
+
+.heading {
+	text-align: center;
+	background: linear-gradient(#16202B, #BBC1C8);
+}

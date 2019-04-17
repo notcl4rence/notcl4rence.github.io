@@ -1,0 +1,105 @@
+body {
+	background: #16202B;
+	font-family:monospace;
+}
+
+p {
+	color: #BBC1C8;
+
+	padding: .5px;
+	border-spacing: .5px;
+	padding: .5px;
+	
+}
+
+pre {
+	color: #BBC1C8;
+	text-align: center;
+}
+	
+.gnutz {
+	text-align: center;
+}
+
+h2 {
+	color: #509BAE;
+}
+
+ul {
+	color: #BBC1C8;
+}
+
+h1 {
+	color: white;
+	
+}
+
+h4 {
+	color: #509BAE;
+}
+
+h3 {
+	background-color: black;
+	border-spacing: 5rem; 
+}
+
+.adair {
+  float: right;
+  padding: 10px;
+}
+
+.fightclub {
+  float: right;
+  padding: 10px;
+}
+
+
+.boneboyz {
+	float: left;
+	border-spacing: 10px;
+}
+
+.kladthrun {
+	float: left;
+	border-spacing: 10px;
+}
+
+.summary {
+	padding: 20px;
+}
+
+.map {
+	float: right;
+	padding: 20px;
+}
+
+.raven-queen {
+	float: right;
+	padding: 20px;
+	buffer: 10px;
+}
+
+.felwinter{
+	padding: 20px;
+	border-spacing: 10px;
+	float: right;
+	
+}
+
+table {
+	border-spacing: 0.4rem; 
+	
+	border-color: #16202B;
+	background-color: #668C95;
+}
+
+th {
+	padding: 0.5rem;
+	border-color: #16202B;
+	background-color: black;
+}
+
+table {
+	margin-left:auto; 
+    margin-right:auto;
+}

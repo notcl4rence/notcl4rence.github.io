@@ -1,0 +1,31 @@
+h1 {
+
+	background-color: black;
+	text-align: center;
+}
+
+body {
+	background-color: #16202B;
+	font-family:monospace;
+}
+
+table {
+	border-spacing: 0.4rem; 
+	
+	border-color: #16202B;
+	background-color: #668C95;
+}
+
+th {
+	padding: 0.5rem;
+	border-color: #16202B;
+	background-color: black;
+}
+
+h3 {
+	color: white;
+}
+
+h4 {
+	color: #509BAE;
+}

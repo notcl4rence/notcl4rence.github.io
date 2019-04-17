@@ -1,0 +1,54 @@
+h3 {
+	background-color: black;
+	border-spacing: 5rem; 
+}
+
+body {
+	background: #16202B;
+	font-family:monospace;	
+}
+
+p {
+	color: #BBC1C8;
+	
+	padding: .5px;
+	width:500px;
+}
+
+.magic-items {
+	text-align: center;
+	margin-left:auto; 
+    margin-right:auto;
+}
+
+h2 {
+	color: #509BAE;
+}
+
+ul {
+	color: #509BAE;
+	width:400px;
+}
+
+.navigation table{
+	border-spacing: 0.4rem; 
+	margin-left:auto; 
+    margin-right:auto;
+	border-color: #16202B;
+	background-color: #668C95;
+}
+
+.navigation th{
+	padding: 0.5rem;
+	border-color: #16202B;
+	background-color: black;
+}
+
+
+.meet-the-party {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
